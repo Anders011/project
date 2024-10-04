@@ -4,7 +4,8 @@ info on flask app routing: https://www.geeksforgeeks.org/flask-app-routing/
 
 learn react: https://react.dev/
 
-more resources:
+## more resources:
+
 React Documentation: https://reactjs.org/docs/getting-started.html
 
 Flask Documentation: https://flask.palletsprojects.com/en/2.0.x/
