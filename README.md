@@ -1,4 +1,4 @@
-# Anders' Budget Tracker
+Budget Tracker App
 
 info on flask app routing: https://www.geeksforgeeks.org/flask-app-routing/
 
